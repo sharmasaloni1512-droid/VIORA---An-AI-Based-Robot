@@ -18,6 +18,20 @@ Team Viora
 <img src="https://img.shields.io/badge/COMMUNICATION-XBEE_S3B_PRO_|_4G_EC200U-brightgreen?style=for-the-badge">
 
 </p>
+### Key Features
+
+* AI-based voice interaction system
+* Arduino-controlled robotic hardware
+* Bluetooth and mobile-based control
+* Real-time question answering using APIs
+* Speech recognition and voice response
+* DC motor-based movement mechanism
+* Ultrasonic sensor for obstacle detection
+* Audio output through speaker module
+* Interactive entertainment and rhyme speaking
+* Educational assistant functionality for children
+* Integration of AI, IoT, and embedded systems
+
 
 <p align="center">
 
