@@ -18,7 +18,19 @@ Viora CAD Design
 
 </p>
 
+## Features
 
+- AI-powered voice interaction system  
+- Arduino-controlled robotic hardware  
+- Bluetooth and mobile-based wireless control  
+- Real-time question answering using APIs  
+- Speech recognition and intelligent voice response  
+- DC motor-based movement mechanism  
+- Ultrasonic sensor-based obstacle detection  
+- Audio output through integrated speaker module  
+- Interactive entertainment and rhyme speaking  
+- Educational assistant functionality for children  
+- Integration of AI, IoT, and embedded systems  
 
 ## Hardware Components
 
@@ -40,3 +52,7 @@ Viora CAD Design
 | 14 | 5mm Sunboard Sheet | Mounting sheet | 8 |
 | 15 | Castor Wheel | Swivel caster wheel | 1 |
 | 16 | 3D Printing | 3D model | 1 |
+
+## Wiring Diagram
+<img width="746" height="553" alt="image" src="https://github.com/user-attachments/assets/6318254c-c92d-4210-bee0-f079462fae0c" />
+
