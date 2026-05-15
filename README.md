@@ -63,6 +63,6 @@ Viora CAD Design
 - Google Recognization
 - pyttsx3
 - Serper API Key
-
+- VS Code
 
 
