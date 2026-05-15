@@ -58,5 +58,11 @@ Viora CAD Design
   <img width="70%" alt="WhatsApp Image 2026-05-15 at 14 05 09" src="https://github.com/user-attachments/assets/6a01509d-1d78-45c7-aa74-3777090cc8e8" />
 </p>
 
+## Software and API used in Viora
+- Google Gemini API Key Integration 
+- Google Recognization
+- pyttsx3
+- Serper API Key
+
 
 
