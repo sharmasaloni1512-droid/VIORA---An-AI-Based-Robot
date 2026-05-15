@@ -9,10 +9,10 @@ Team Viora
 <p align="center">
   <img width="30%" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/a06850be-a8d1-447c-b764-8f571a7a94a8" />
 </p>
-## Features
+<img width="662" height="717" alt="image" src="https://github.com/user-attachments/assets/51ee1990-9e70-4eae-b807-54e720d3ff5e" />
+<img width="558" height="572" alt="WhatsApp Image 2026-02-19 at 10 14 53" src="https://github.com/user-attachments/assets/aa017f94-de55-450b-87a2-d2ec93c25035" />
 
-- AI-powered voice interaction system
-- Arduino-controlled robotic hardware
+
 
 ## Hardware Components
 
