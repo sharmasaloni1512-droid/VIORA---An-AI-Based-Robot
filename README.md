@@ -54,6 +54,6 @@ Viora CAD Design
 | 16 | 3D Printing | 3D model | 1 |
 
 ## Wiring Diagram
-<img width="1040" height="780" alt="WhatsApp Image 2026-05-15 at 14 05 09" src="https://github.com/user-attachments/assets/6a01509d-1d78-45c7-aa74-3777090cc8e8" />
+<img width="700" height="700" alt="WhatsApp Image 2026-05-15 at 14 05 09" src="https://github.com/user-attachments/assets/6a01509d-1d78-45c7-aa74-3777090cc8e8" />
 
 
