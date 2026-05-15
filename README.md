@@ -24,16 +24,16 @@ Team Viora
 <img src="https://img.shields.io/badge/CATEGORY-ROCKETRY_AVIONICS-red?style=for-the-badge">
 
 </p>
+## Features
 
-## ⚡ Core Highlights
-
-- 🧠 AI-enabled conversational intelligence  
-- 🤖 Autonomous robotic control using Arduino  
-- 📶 Seamless wireless communication & mobile control  
-- 🌍 Live API-powered intelligent response system  
-- 🎙️ Human-like speech recognition and voice interaction  
-- 🚗 Smart motorized movement mechanism  
-- 📡 Real-time obstacle sensing with ultrasonic technology  
-- 🔊 Immersive audio interaction through speaker output  
-- 🎶 Interactive entertainment and educational assistance  
-- 🚀 Fusion of Artificial Intelligence, IoT, and Embedded Systems  
+- AI-powered voice interaction system  
+- Arduino-controlled robotic hardware  
+- Bluetooth and mobile-based wireless control  
+- Real-time question answering using APIs  
+- Speech recognition and intelligent voice response  
+- DC motor-based movement mechanism  
+- Ultrasonic sensor-based obstacle detection  
+- Audio output through integrated speaker module  
+- Interactive entertainment and rhyme speaking  
+- Educational assistant functionality for children  
+- Integration of AI, IoT, and embedded systems  
