@@ -24,8 +24,10 @@ Team Viora
 <img src="https://img.shields.io/badge/CATEGORY-ROCKETRY_AVIONICS-red?style=for-the-badge">
 
 </p>
-## Features
 
+<h3>
+Key Features:
+</h3>
 - AI-powered voice interaction system  
 - Arduino-controlled robotic hardware  
 - Bluetooth and mobile-based wireless control  
