@@ -11,17 +11,8 @@ Team Viora
 </p>
 ## Features
 
-- AI-based voice interaction system
+- AI-powered voice interaction system
 - Arduino-controlled robotic hardware
-- Bluetooth and mobile-based control
-- Real-time question answering using APIs
-- Speech recognition and voice response
-- DC motor-based movement mechanism
-- Ultrasonic sensor for obstacle detection
-- Audio output through speaker module
-- Interactive entertainment and rhyme speaking
-- Educational assistant functionality for children
-- Integration of AI, IoT, and embedded systems
 
 ## Hardware Components
 
