@@ -5,6 +5,6 @@ Team Viora
 </h3>
 
 <p align="center">
-  <img src=""C:\Users\sharm\OneDrive\Pictures\Screenshots\WhatsApp Image 2026-05-15 at 13.18.48.jpeg"" width="30%">
+  <img src="C:\Users\sharm\OneDrive\Pictures\Screenshots\WhatsApp Image 2026-05-15 at 13.18.48.jpeg" width="30%">
   
 </p>
