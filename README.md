@@ -9,22 +9,6 @@ Team Viora
 <p align="center">
   <img width="30%" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/a06850be-a8d1-447c-b764-8f571a7a94a8" />
 </p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/PLATFORM-RASPBERRY_PI_PICO_2-orange?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/DESIGNED_WITH-EASYEDA-blue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/COMMUNICATION-XBEE_S3B_PRO_|_4G_EC200U-brightgreen?style=for-the-badge">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/CATEGORY-ROCKETRY_AVIONICS-red?style=for-the-badge">
-
-</p>
-
 ## Features
 
 - AI-based voice interaction system
@@ -38,3 +22,24 @@ Team Viora
 - Interactive entertainment and rhyme speaking
 - Educational assistant functionality for children
 - Integration of AI, IoT, and embedded systems
+
+## Hardware Components
+
+| S. No. | Hardware Components      | Specification                     | Quantity |
+|-------|---------------------------|-----------------------------------|----------|
+| 1 | Arduino UNO R3 | 8-bit microcontroller board | 1 |
+| 2 | L293D Motor Driver Shield | 2 DC controller | 1 |
+| 3 | HC05 Bluetooth Module | Serial wireless module | 1 |
+| 4 | Push Buttons | Momentary switch | 2 |
+| 5 | Battery Level Indicator | Shows battery level | 1 |
+| 6 | Lithium Battery | Rechargeable Li-Po | 3 |
+| 7 | Cell Holder | Holds batteries securely | 2 |
+| 8 | Battery Charger | Charges Li batteries safely | 1 |
+| 9 | Ribbon Wire | Flat multi-core cable | 20 |
+| 10 | Wheels | Drive wheels for motors | 2 |
+| 11 | N20 Gear Motor | DC motor with gearbox | 2 |
+| 12 | Audio Player BT Kit | Bluetooth audio module | 1 |
+| 13 | 1.3 Inch Speaker | Mini audio output | 1 |
+| 14 | 5mm Sunboard Sheet | Mounting sheet | 8 |
+| 15 | Castor Wheel | Swivel caster wheel | 1 |
+| 16 | 3D Printing | 3D model | 1 |
