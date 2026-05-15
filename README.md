@@ -13,7 +13,7 @@ Team Viora
  <h3 align="center">
 Viora CAD Design
 </h3>
-<img width="45%"  alt="image" src="https://github.com/user-attachments/assets/51ee1990-9e70-4eae-b807-54e720d3ff5e" />
+<img width="45%" alt="WhatsApp Image 2026-02-19 at 10 14 53 (1)" src="https://github.com/user-attachments/assets/1b6ab623-73e1-4d6f-ac4a-4a732708725e" />
 <img width="45%"  alt="WhatsApp Image 2026-02-19 at 10 14 53" src="https://github.com/user-attachments/assets/aa017f94-de55-450b-87a2-d2ec93c25035" />
 
 </p>
