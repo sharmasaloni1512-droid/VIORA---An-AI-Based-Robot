@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Viora - An AI Based Robot</h1>
+<h1 align="center">🤖 Viora - An AI Based Robot</h1>
 Viora is an AI-based voice assistant robot designed to interact with users through voice commands and provide smart assistance in real time. The project combines Artificial Intelligence, Arduino, Bluetooth communication, and robotic hardware to create an interactive and educational robot.
 The robot can understand and respond in English, answer user questions instantly, and perform mobile-controlled movements using Bluetooth technology. It is capable of talking, singing rhymes, entertaining users, and acting as a friendly learning companion for children and students.
 The system integrates voice recognition, speech response, and robotic movement control to demonstrate smooth interaction between AI software and hardware components. The project was developed to showcase practical applications of AI and IoT in education, entertainment, and smart assistance systems.
